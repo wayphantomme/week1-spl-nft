@@ -73,12 +73,11 @@ Some scripts contain constants (mint address, asset address, metadata URI) that 
 | Token mint (Turbin Sharingan, TRBS) | [Explorer](https://explorer.solana.com/address/HBm48hWFrQTbuLsDKS79uLT4kwHcbKXvZjfsbPHVUcia?cluster=devnet) |
 | Token metadata transaction | [Explorer](https://explorer.solana.com/tx/6vujbBG4JuGUfXi8BGmRK9qRUMU1KWNpTURd9ARZZo6QoBEiAgZv3oZYJ7ruFNtxRYDLH2TDvY9iiiHPWTBRLVd?cluster=devnet) |
 | Token image update transaction | [Explorer](https://explorer.solana.com/tx/5NguWh7C7xGsH9kRyFe8WdodXsCrrFDozxoBA7idUNLNE6kvEkRrqYGhUvUChLYD8Bny5GhL9r4i7gNcx9NHGCRR?cluster=devnet) |
-| Token transfer transaction | `<paste link from 1c output>` |
+| Token transfer transaction | [Explorer](https://explorer.solana.com/tx/22kx1nS9JeoVwzFVFtqTGpA7M7GpfZLRP6n8AfRjcHVt7Y23Ci3u8aGqy69ZBochtgFZXrrJki7G6eCBmD3Ekh3s?cluster=devnet) |
 | Core NFT (Turbin Sharingan #1) | [Core Explorer](https://core.metaplex.com/explorer/2UdateFp28HTNg2oRFMRWBRGNZMMNQ9eg7eyzbDttjjg?env=devnet) |
 | NFT rename transaction | [Explorer](https://explorer.solana.com/tx/cpVytMLPrBMXPWRA7zF9191tyzkZSFtKLZTU3YJ63ZYpFXejRgj6LUYjqiwUhucK9pajCjVnbCesCfCqQwvoQ8o?cluster=devnet) |
-| NFT transfer transaction | `<paste link from task 4 output>` |
-| Burned test NFT | `<paste asset or transaction link from task 5 output>` |
-
+| NFT transfer transaction | [Explorer](https://explorer.solana.com/tx/313VmivPZa6RQp7gCxhgErhQ2D2gB47TNNZpsuvAV2TQU5pvzPCgomqgX4efRbauXjZSJiBcY9sDdFnoVzTzpdMA?cluster=devnet) |
+| Burned test NFT (burn transaction) | [Explorer](https://explorer.solana.com/tx/R6ifBzs7pMxAgGuFh1udaeCQ6nzbpz2Dr8keYAX3TAsGQAHZjL14djpLkhBoxh8DuARKcZ13dtEKoKgexeHs14g?cluster=devnet) |
 ## What each part does
 
 **Task 1: SPL token.**
