@@ -78,6 +78,17 @@ Some scripts contain constants (mint address, asset address, metadata URI) that 
 | NFT rename transaction | [Explorer](https://explorer.solana.com/tx/cpVytMLPrBMXPWRA7zF9191tyzkZSFtKLZTU3YJ63ZYpFXejRgj6LUYjqiwUhucK9pajCjVnbCesCfCqQwvoQ8o?cluster=devnet) |
 | NFT transfer transaction | [Explorer](https://explorer.solana.com/tx/313VmivPZa6RQp7gCxhgErhQ2D2gB47TNNZpsuvAV2TQU5pvzPCgomqgX4efRbauXjZSJiBcY9sDdFnoVzTzpdMA?cluster=devnet) |
 | Burned test NFT (burn transaction) | [Explorer](https://explorer.solana.com/tx/R6ifBzs7pMxAgGuFh1udaeCQ6nzbpz2Dr8keYAX3TAsGQAHZjL14djpLkhBoxh8DuARKcZ13dtEKoKgexeHs14g?cluster=devnet) |
+
+### Screenshots
+
+**SPL token with name, symbol and image (Solana Explorer)**
+
+![Token on Solana Explorer](docs/images/token-explorer.png)
+
+**Core NFT after rename and description update (Metaplex Core Explorer)**
+
+![NFT on Core Explorer](docs/images/nft-core-explorer.png)
+
 ## What each part does
 
 **Task 1: SPL token.**
